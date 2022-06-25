@@ -9,6 +9,9 @@ _ReSharper*
 *.vcxproj*
 *.sln
 .vs
+bin/
+bin-int/
+
 CMakeSettings.json
 Win32
 x64
